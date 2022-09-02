@@ -170,6 +170,7 @@ $mark-size: calc(#{$cell-size} * .9);
     border: 1px solid black;
     border-radius: 7px;
     padding: .25em .5em;
+    margin-top: 50px;
     cursor: pointer;
 
     &:hover {
